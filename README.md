@@ -12,10 +12,9 @@ Sistema que permite criar, listar, editar e remover imoveis de uma maneira rápi
 - ./teste
 
 ### :page_facing_up: Métodos principais do sistema
-- post('/enderecos’) - criar um endereço
-- get('/enderecos’) - listar endereços
-- get('/enderecos/:id’) - listar endereço pelo id
-- put('/enderecos/:id’) - atualizar endereços pelo id
-- delete('/enderecos/:id’) - deletar endereço pelo id
+- create(Imovel *imovel) - cria um novo imovel
+- getImovel() - busca por todos os imoveis e retorna um vector de imoveis
+- updateImovel(Imovel *imovel, int index) - recebe um imovel e seu index e o atualiza
+- deleteImovel(int index) - recebe o index do imovel e o deleta do sistema
 
 ---
