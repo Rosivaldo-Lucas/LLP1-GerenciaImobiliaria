@@ -19,4 +19,4 @@ Sistema que permite criar, listar, editar e remover imoveis de uma maneira rápi
 
 ---
 
-- <a href="https://www.instagram.com/rosivaldo_lucas/?hl=pt-br">Link para o Instagram</a>
+- <a href="https://www.instagram.com/rosivaldo_lucas/?hl=pt-br" target="_blank">Link para o Instagram</a>
