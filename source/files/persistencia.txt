@@ -1,0 +1,23 @@
+2
+Casa para aluguel
+1
+Avenida Brasil
+Centro
+Juripiranga
+58330-000
+132
+1
+4
+450
+400
+90000
+3
+Terreno arrumado
+2
+Avenida Joao
+Nova rua
+Conde
+85521-000
+47
+0
+14000
