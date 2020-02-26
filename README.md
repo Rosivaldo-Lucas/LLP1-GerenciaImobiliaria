@@ -1,7 +1,7 @@
 # 2° Projeto da disciplina LLP1
 
 ### :page_facing_up: CRUD IMOBILIÁRIO
-- Projeto apresentado as cadeiras de LP1 e LLP1 -> Disciplinas do curso de Engenharia de Computação da UFPB.
+- Projeto apresentado as cadeiras de LP1 e LLP1, disciplinas do curso de Engenharia de Computação da UFPB.
 - Professores Tiago Maritan e Derzu Omaia.
 Sistema que permite criar, listar, editar e remover imoveis de uma maneira rápida e prática.
 
